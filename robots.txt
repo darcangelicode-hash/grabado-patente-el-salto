@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dcarangelicode-hash.github.io/sitemap.xml
